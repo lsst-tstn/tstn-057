@@ -2,12 +2,10 @@
 Calibration Screen
 ##################
 
-.. abstract::
-
-   This technote describes the Simonyi Calibration Screen, including its design, installation, alignment, and performance requirements.
-
 Overview
 ========
+
+The Calibration Screen is part of the Rubin Calibration System, [TSTN-066](https://tstn-066.lsst.io/).
 
 The Simonyi Calibration Screen is used to reflect light into the camera to produce flat-field calibration images for the Rubin Observatory telescope.
 
@@ -54,8 +52,8 @@ The calibration screen was designed to achieve optical and mechanical requiremen
   inclined position.
 
 * **Reflectance Requirement**:
-   * The reflective coating applied to the screen panels shall provide a hemispherical reflectance greater than 90% across the operational wavelength range.
-   * Blackened regions surrounding the reflective surface shall have reflectance below 6% in order to suppress scattered light.
+  * The reflective coating applied to the screen panels shall provide a hemispherical reflectance greater than 90% across the operational wavelength range.
+  * Blackened regions surrounding the reflective surface shall have reflectance below 6% in order to suppress scattered light.
 
 * **Panel Alignment**:
   The gap between adjacent screen panels shall not exceed 1 mm.
@@ -114,7 +112,7 @@ The screen surface is composed of 24 individual panels:
 * 8 inner panels
 
 These panels were constructed under the guidance of EIE and shipped directly to LabSphere.
-The panels are constructed with an aluminum frame, covered with some kind of canvas (would like to find what this material is).
+The panels are constructed with an aluminum frame, covered with the LabSphere coating on some material.
 The panels were coated by LabSphere using Permaflect coatings:
 
 * Permaflect 94% for the reflective region
@@ -156,7 +154,7 @@ The structure was tarped, waiting for installation.
 
 The steel structure was then installed on the dome.
 When that was installed and its location confirmed, the aluminum structure was brought in through the slit.
-The aluminum structure was placed in a lifting fixuture, which was then raised with a large external crane. 
+The aluminum structure was placed in a lifting fixture, which was then raised with a large external crane. 
 The aluminum structure was lowered into the dome and set on the 8th floor.
 Since the overhead crane could not reach over to the screen location, the aluminum structure was lifted with mounts on the ceiling.
 
@@ -169,7 +167,7 @@ This was accomplished by lifting the panels by their adjusters on the back, then
 
    Aluminum structure drawing, including the lifting fixture. EIE-DWG-46820000A.
 
-One all panels were installed, they flatness of the screen was measured, which was done using a Leica laser tracker (not the one installed on the TMA).
+Once all panels were installed, they flatness of the screen was measured, which was done using a Leica laser tracker (not the one installed on the TMA).
 An operator placed an SMR against the screen at each panel adjustment location. 
 After measurements were collected, several panels were adjusted until the surface met the 3 mm RMS flatness requirement.
 
