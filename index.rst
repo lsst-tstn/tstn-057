@@ -5,7 +5,7 @@ Calibration Screen
 Overview
 ========
 
-The Calibration Screen is part of the Rubin Calibration System, [TSTN-066](https://tstn-066.lsst.io/).
+The Calibration Screen is part of the Rubin Calibration System, `TSTN-066 <https://tstn-066.lsst.io/>`__.
 
 The Simonyi Calibration Screen is used to reflect light into the camera to produce flat-field calibration images for the Rubin Observatory telescope.
 
